@@ -1,0 +1,7 @@
+id=screenrecord_extended
+name=ScreenRecord Extended
+version=Module (v1)
+versionCode=1
+author=varavut
+description=screenrecord with extended time limit
+support=https://github.com/varavut/screenrecord_extended
